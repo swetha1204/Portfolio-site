@@ -99,7 +99,7 @@ home section styling
 
 .home{
     display: flex;
-    background: url(/bg.jpg) no-repeat center;
+    background: url(bg.jpg) no-repeat center;
     height: 100vh;
     color:cadetblue;
     min-height: 500px;
